@@ -1,0 +1,2 @@
+[run]
+data_file = /tmp/.coverage_{{cookiecutter.project_dir.replace('-','_')}}
